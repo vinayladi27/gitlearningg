@@ -1,12 +1,20 @@
-<<<<<<< HEAD
-kkkd
-kdjjd
-jdod
-kdkkd
-=======
+
 vin
 i am\
 you rare
 jjjjj
 iiii
->>>>>>> a22e555 (file.txt is modified)
+=======
+>>>>>>> 26db35f8d288631acc88b4d9c1768b8dedab2c69
+kkkd
+kdjjd
+jdod
+kdkkd
+vin
+i am\
+you rare
+jjjjj
+iiii
+=======
+>>>>>>> mybranch
+>>>>>>> 26db35f8d288631acc88b4d9c1768b8dedab2c69
