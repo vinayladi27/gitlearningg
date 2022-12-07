@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 vin
 i am\
 you rare
 jjjjj
 iiii
+=======
+kkkd
+kdjjd
+jdod
+kdkkd
+>>>>>>> mybranch
